@@ -9,10 +9,10 @@ import Footer from '@/components/layout/footer';
 
 const inter = Inter({ subsets: ['latin'] });
 
-const title = 'Sagar Shah | Full Stack Developer From Ahmedabad, India.';
+const title = 'John Ayeobasan | Software Developer From Ondo State, Nigeria.';
 const description =
-  'A self-proclaimed designer who specializes in full stack development (React.js & Node.js), from Ahmedabad, India.';
-const url = 'https://sagarshah.dev';
+  'A self-proclaimed designer who specializes in full stack development (React.js & Node.js), from Ondo State, Nigeria.';
+const url = 'https://Johnnie.dev';
 
 export const metadata: Metadata = {
   metadataBase: new URL(url),
@@ -20,11 +20,10 @@ export const metadata: Metadata = {
   description,
   keywords: [
     'Frontend Developer',
-    'Full Stack Developer',
     'React Developer',
     'Next.js Developer',
   ],
-  creator: 'Sagar Shah',
+  creator: 'John Ayeobasan',
   themeColor: [
     { media: '(prefers-color-scheme: light)', color: 'white' },
     { media: '(prefers-color-scheme: dark)', color: 'black' },
@@ -45,7 +44,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title,
     description,
-    creator: '@shahsagarm',
+    creator: '@Johnnle_js',
     images: '/images/open-graph-sagar.png',
   },
   icons: {
