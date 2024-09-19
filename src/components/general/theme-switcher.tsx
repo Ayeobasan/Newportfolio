@@ -16,6 +16,7 @@ const ThemeSwitcher = () => {
 
   useEffect(() => {
     setMounted(true);
+    setTheme('dark')
   }, []);
 
   // until the UI is mounted, display a dummy icon
@@ -36,4 +37,3 @@ const ThemeSwitcher = () => {
 
 export default ThemeSwitcher;
 
-// Ref :: https://www.npmjs.com/package/next-themes#avoid-hydration-mismatch
