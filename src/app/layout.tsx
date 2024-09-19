@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     siteName: title,
     images: [
       {
-        url: '/images/open-graph-sagar.png',
+        url: '/favicon.ico',
       },
     ],
   },
@@ -45,12 +45,12 @@ export const metadata: Metadata = {
     title,
     description,
     creator: '@Johnnle_js',
-    images: '/images/open-graph-sagar.png',
+    images: '/ifavicon.ico',
   },
   icons: {
     icon: '/favicon.ico',
-    shortcut: '/favicon-16x16.png',
-    apple: '/apple-touch-icon.png',
+    // shortcut: '/favicon-16x16.png',
+    // apple: '/apple-touch-icon.png',
   },
 };
 

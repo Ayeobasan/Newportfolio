@@ -16,7 +16,7 @@ import LogoBankylight from "/public/images/logos/bankylight.png";
 import Logoploylight from "/public/images/logos/plolight.webp";
 import LogoPloyco from "/public/images/logos/Ploycologo.png";
 import LogoTriggaTech from "/public/images/logos/TriggaTech.png";
-import ProjectBanky from "/public/images/Analyimg.png";
+import ProjectBanky from "/public/images/analyimg.png";
 import ProjectPloyco from "/public/images/ployco.jpg";
 import ProjectAi from "/public/images/OpenAi.png";
 
