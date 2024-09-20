@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 const title = 'John Ayeobasan | Software Developer From Ondo State, Nigeria.';
 const description =
-  'A self-proclaimed designer who specializes in full stack development (React.js & Node.js), from Ondo State, Nigeria.';
+  'A self-proclaimed developer who specializes in Frontend development (React.js & Node.js), from Ondo State, Nigeria.';
 const url = 'https://Johnnie.dev';
 
 export const metadata: Metadata = {
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     title,
     description,
     creator: '@Johnnle_js',
-    images: '/ifavicon.ico',
+    images: '/favicon.ico',
   },
   icons: {
     icon: '/favicon.ico',
