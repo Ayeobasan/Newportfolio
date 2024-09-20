@@ -47,10 +47,6 @@ export const NAV_LINKS = [
     href: "#work",
   },
   {
-    label: "Testimonials",
-    href: "#testimonials",
-  },
-  {
     label: "Contact",
     href: "#contact",
   },
@@ -176,7 +172,7 @@ export const PROJECTS: ProjectDetails[] = [
   {
     name: "Banky",
     description:
-      "A platform for that provides financial infrastructure to enable individuals and businesses to get paid, make payments, get personalized credit offerings.",
+      "A comprehensive financial infrastructure platform designed to empower individuals and businesses to facilitate payments, receive funds, and access personalized credit solutions.",
     url: "https://www.banky.ca",
     previewImage: ProjectBanky,
     technologies: ["React", "Vite", "Css", "Tailwindcss"],
@@ -184,7 +180,7 @@ export const PROJECTS: ProjectDetails[] = [
   {
     name: "PLoyco",
     description:
-      "A  platform is easy to use, with an intuitive interface that makes it easy for artists to upload and distribute their music. This helps to save time and reduce frustration, allowing artists to focus on creating their music.",
+      "The platform offers a user-friendly, intuitive interface, enabling artists to easily upload and distribute their music. This streamlines the process, saving time and minimizing frustration, so artists can focus on their craft.",
     url: "https://Ployco.com",
     previewImage: ProjectPloyco,
     technologies: [
@@ -197,9 +193,9 @@ export const PROJECTS: ProjectDetails[] = [
     ],
   },
   {
-    name: "SumZ",
+    name: "Summize",
     description:
-      "A platform for Simplifing your reading with Summize,an open-source articles summarizer that transforms any website or lengthy articles into clear and concise summarizer for easy understanding.",
+      "Summize is an open-source platform that simplifies your reading experience by transforming websites and lengthy articles into clear, concise summaries for easier understanding",
     url: "https://johnnie-openaiwebsite-summarizer.netlify.app/",
     previewImage: ProjectAi,
     technologies: [

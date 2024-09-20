@@ -41,39 +41,34 @@ const AboutMeSection = () => {
               withUnderline
               href={EXTERNAL_LINKS.GITHUB}
             >
-              self-proclaimed developer
+              Frontend developer
             </Link>{" "}
-            who specializes in frontend development with a focus on React.js and
-            emerging Web3 technologies. I am enthusiastic about bringing the
-            technical and visual aspects of digital products to life. User
-            experience, pixel-perfect design, and writing clear, readable,
-            highly performant code matters to me.
+            specializing in React.js and emerging Web3 technologies, dedicated
+            to bringing the technical and visual aspects of digital products to
+            life. User experience, pixel-perfect design, and writing clear,
+            performant code are at the core of my work.
           </Typography>
           <Typography>
-            I began my journey as a web developer in 2019, and since then,
-            I&apos;ve continued to grow and evolve as a developer, taking on new
-            challenges and learning the latest technologies along the way. Now,
-            three years after starting my web development journey, I&apos;m
-            building cutting-edge web applications using modern technologies
-            such as React.js, Next.js, TypeScript, Node.js, Web3.js, and much
-            more.
+            I started my web development journey in 2019, and over the past
+            three years, I&apos;ve grown by embracing new challenges and
+            mastering the latest technologies. Today, I build cutting-edge web
+            applications with React.js, Next.js, TypeScript, Node.js, Web3.js,
+            and more.
           </Typography>
           <Typography>
-            As a progressive thinker, I enjoy working on products end-to-end,
-            from ideation to development. My experience ranges from enhancing
-            organizational software to crafting Web3 applications. I pride
-            myself on bridging design and functionality, creating visually
-            appealing, intuitive, and accessible projects.
+            As a progressive thinker, I thrive in full-cycle product
+            development, from ideation to deployment. My experience spans
+            everything from enhancing organizational software to crafting Web3
+            applications. I focus on bridging design and functionality to create
+            visually appealing, intuitive, and accessible projects.
           </Typography>
           <Typography>
-            When I&apos;m not coding, I&apos;m exploring Web3 trends,
-            collaborating with fellow developers, or working on personal
-            projects that challenge my skills. I&apos;m passionate about pushing
-            the boundaries in web development, from implementing secure payment
-            systems to optimizing dApp performance. My approach combines
-            enthusiasm with problem-solving, always aiming to enhance user
-            experiences and drive efficiency. This journey is fueled by
-            curiosity and a desire to create impactful digital experiences.
+            When I&apos;m not coding, I explore Web3 trends, collaborate with
+            fellow developers, and work on personal projects that push my
+            skills. I&apos;m driven by a desire to innovate, whether it&apos;s optimizing
+            dApp performance or implementing secure payment systems. You can
+            find me on Twitter sharing tech insights or on GitHub, where I build
+            in public.
             <Link
               noCustomization
               externalLink
@@ -98,7 +93,7 @@ const AboutMeSection = () => {
           <div className="flex flex-col gap-2 md:flex-row md:gap-6">
             <ul className="flex list-inside list-disc flex-col gap-2">
               <Typography component="li">
-                Certified in Computer Programming 
+                Certified in Computer Programming
               </Typography>
               <Typography component="li">Full time freelancer</Typography>
             </ul>
@@ -107,10 +102,6 @@ const AboutMeSection = () => {
               {/* <Typography component="li">Aspiring indie hacker</Typography> */}
             </ul>
           </div>
-          <Typography>
-            One last thing, I&apos;m available for freelance work, so feel free
-            to reach out and say hello! I promise I don&apos;t bite 😉
-          </Typography>
         </div>
       </div>
     </Container>
